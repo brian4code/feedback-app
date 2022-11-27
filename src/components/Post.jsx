@@ -1,7 +1,6 @@
-import {useParams, Navigate, useNavigate, Routes, Route} from 'react-router-dom'
+import {useNavigate, Routes, Route} from 'react-router-dom'
 
 function Post() {
-  const params = useParams()
   const navigate = useNavigate()
 
   // redirect to another page by navigate() 
