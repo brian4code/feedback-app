@@ -1,6 +1,8 @@
 # feedback-app 
 
-A site for posting reviews and ratings
+A simple React frontend for posting reviews and ratings
+
+Deployed to Nelify
 
 Visit the link to see the rendered website:
 
